@@ -1,1 +1,2 @@
 .vagrant
+#doesn't include VagrantFile
