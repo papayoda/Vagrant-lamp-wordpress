@@ -1,0 +1,1 @@
+# Vagrant-lamp-wordpress
