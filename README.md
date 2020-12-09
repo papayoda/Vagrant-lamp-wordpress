@@ -1,1 +1,1 @@
-# Vagrant-lamp-wordpress
+# Vagrant-LAMP-Wordpress
