@@ -1,4 +1,4 @@
 # Vagrant-LAMP-Wordpress
 
 
-vagrant up
+TANI PAPARI
